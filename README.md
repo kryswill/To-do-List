@@ -5,7 +5,9 @@ This is a To-do list application that allows you to watch your pending task, add
 
 It uses interfaces and hooks for data persistence between components.
 
-For the installing you just need to download Node js and run the following commands:
+**Installation:**
+
+For installing download Nodejs and run the following commands:
 
 npm install
 npm start
