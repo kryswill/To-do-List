@@ -1,0 +1,9 @@
+You need to install Node js in order to execute this app.
+
+In the app directory, run this commands:
+
+1. Install Npm:
+  npm install
+
+2. Initiate app:
+  npm start
